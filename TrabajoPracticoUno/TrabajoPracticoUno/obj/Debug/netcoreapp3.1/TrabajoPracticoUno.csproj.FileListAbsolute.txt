@@ -1,0 +1,13 @@
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.exe
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.deps.json
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.runtimeconfig.json
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.runtimeconfig.dev.json
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.dll
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\bin\Debug\netcoreapp3.1\TrabajoPracticoUno.pdb
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.csprojAssemblyReference.cache
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.AssemblyInfoInputs.cache
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.AssemblyInfo.cs
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.csproj.CoreCompileInputs.cache
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.dll
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.pdb
+C:\Users\AOale\source\repos\TrabajoPracticoUno\TrabajoPracticoUno\obj\Debug\netcoreapp3.1\TrabajoPracticoUno.genruntimeconfig.cache
